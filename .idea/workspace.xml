@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aee6377a-ffb5-407f-af9d-ecbdbf29c5e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1/task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1/task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sem_3/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sem_3/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sem_4/S4_Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sem_4/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sem_4/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sem_5/Task_1/Task_0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sem_5/Task_1/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sem_5/Task_1/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1/HWS_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1/task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1/task_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1/task_3.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-20/lib/src.zip!/java.base/java/util/Map.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -40,27 +47,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/JAVA/Program/Project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Task_1.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+}</component>
+  <component name="RunManager" selected="Application.Task_2">
+    <configuration name="Task_0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem_5.Task_1.Task_0" />
       <module name="Sem_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sem_5.Task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_1.Main" />
+    <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem_5.Task_1.Task_1" />
       <module name="Sem_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_1.*" />
+          <option name="PATTERN" value="Sem_5.Task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem_5.Task_1.Task_2" />
+      <module name="Sem_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sem_5.Task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem_3.task_1" />
+      <module name="Sem_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sem_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem_3.task_2" />
+      <module name="Sem_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sem_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_1.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task_2" />
+        <item itemvalue="Application.Task_1" />
+        <item itemvalue="Application.Task_0" />
+        <item itemvalue="Application.task_2" />
+        <item itemvalue="Application.task_1" />
       </list>
     </recent_temporary>
   </component>
@@ -84,6 +141,34 @@
       <option name="presentableId" value="Default" />
       <updated>1679814064973</updated>
     </task>
+    <task id="LOCAL-00001" summary="Seminar_2_1">
+      <created>1679822930789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679822930789</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Seminar_2" />
+    <MESSAGE value="Seminar_2_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar_2_1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
